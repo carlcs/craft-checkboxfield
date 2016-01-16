@@ -16,7 +16,7 @@ Custom field parameter usage:
 
 ## Field Type Settings
 
-Uncheck "Show field name and instructions" to hide the field's name and it's instructions. This also removes the top margin, to make multiple Checkbox fields look exactly like Craft's default Checkboxes field with mutliple options.
+Uncheck "Show field name and instructions" to hide the field's name and it's instructions. This also removes the top margin, to make multiple Checkbox fields look like Craft's default Checkboxes field with multiple options.
 
 
   [1]: https://craftcms.com/docs/checkboxes-fields
