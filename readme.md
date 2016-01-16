@@ -2,7 +2,7 @@
 
 ![Checkbox Field Type](https://github.com/carlcs/craft-checkboxfield/blob/master/checkboxfield.png)
 
-This plugin provides a field type that looks like Craft's default [Checkboxes field][1], but stores a boolean value to the database (similar to the Lightswitch field), so you can use a custom field parameter in your ElementCriteriaModel.
+This plugin provides a field type that looks exactly like Craft's default [Checkboxes field][1], but stores a boolean value to the database (similar to the Lightswitch field), so you can use a custom field parameter in your ElementCriteriaModel.
 
 ## Installation
 
