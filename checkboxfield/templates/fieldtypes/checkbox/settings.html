@@ -1,0 +1,22 @@
+{% import '_includes/forms' as forms %}
+
+{{ forms.checkboxField({
+    label: 'Show field name and instructions'|t,
+    id: 'heading',
+    name: 'heading',
+    checked: settings.heading,
+}) }}
+
+{{ forms.textField({
+    label: 'Checkbox label'|t,
+    id: 'label',
+    name: 'label',
+    value: settings.label,
+}) }}
+
+{{ forms.checkboxField({
+    label: 'Enable checkbox by default'|t,
+    id: 'default',
+    name: 'default',
+    checked: settings.default,
+}) }}

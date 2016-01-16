@@ -1,0 +1,18 @@
+{% import '_includes/forms' as forms %}
+
+{{ forms.checkboxField({
+    label: settings.label,
+    name: name,
+    checked: value
+}) }}
+
+{% if not settings.heading %}
+    {% includecss %}
+        #fields-{{ id }}-field .heading {
+          display: none;
+        }
+        #fields-{{ id }}-field {
+          margin-top: -24px;
+        }
+    {% endincludecss %}
+{% endif %}
