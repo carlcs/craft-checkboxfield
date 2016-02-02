@@ -1,0 +1,8 @@
+{
+  "name": "carlcs/craft-checkboxfield",
+  "description": "Checkbox Field plugin for Craft CMS",
+  "type": "craft-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
