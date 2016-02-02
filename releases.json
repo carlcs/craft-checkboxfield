@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1",
+    "downloadUrl": "https://github.com/carlcs/craft-checkboxfield/archive/v1.0.1.zip",
+    "date": "2016-02-02T18:00:00-01:00",
+    "notes": [
+      "Added Composer support"
+    ]
+  },
+  {
     "version": "1.0",
     "downloadUrl": "https://github.com/carlcs/craft-checkboxfield/archive/v1.0.zip",
     "date": "2016-01-16T18:00:00-01:00",
